@@ -1,4 +1,4 @@
-# Hack 1 - Social Oplesk
+# Hack 1
 
 
 -  H-1: https://github.com/yenderlhy/git_h-1
